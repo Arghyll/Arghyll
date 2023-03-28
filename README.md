@@ -1,7 +1,10 @@
 ### Olá! 👋 Eu sou o Diego. Estou fazendo uma transição de carreira e entrando nesse mundo maravilhoso que é a programação.
 
+<br/>
+
 - 📚 Atualmente estudando TypeScript, C# e MySql.
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
+##
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghyll&show_icons=true&theme=merko&count_private=true)
@@ -25,5 +28,5 @@
   <a href = "mailto:carvalho.84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Arghyll/Arghyll/blob/output/github-contribution-grid-snake.svg)
+
 
