@@ -2,7 +2,7 @@
 
 <br/>
 
-- 📚 Atualmente estudando TypeScript, C# e MySql.
+- 📚 Atualmente estudando TypeScript, HTML, CSS, C# e MySql.
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
 ##
 
