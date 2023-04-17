@@ -2,7 +2,7 @@
 
 <br/>
 
-- 📚 Atualmente estudando Java e MySql.
+- 📚 Atualmente estudando Java.
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
 ##
 
