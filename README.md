@@ -2,7 +2,7 @@
 
 <br/>
 
-- 📚 Atualmente estudando Java.
+- 📚 Atualmente estudando Angular
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
 ##
 
