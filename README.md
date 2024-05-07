@@ -2,8 +2,9 @@
 
 <br/>
 
-- 📚 Atualmente estudando Angular
+- 📚 Atualmente estudando Java.
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Cursando Engenharia de Software.
 ##
 
 
