@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estudando Java.
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
-- 👨‍🎓 Cursando Engenharia de Software.
+- 👨‍🎓 Cursando Engenharia de Software 1/8.
 ##
 
 
