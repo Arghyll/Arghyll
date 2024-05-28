@@ -2,7 +2,7 @@
 
 <br/>
 
-- 📚 Atualmente estudando Java.
+- 📚 Atualmente estudando HTML, CSS e JS.
 - 👨‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas.
 - 👨‍🎓 Cursando Engenharia de Software 1/8.
 ##
